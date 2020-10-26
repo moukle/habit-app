@@ -1,4 +1,4 @@
-# habitator
+# Habit App - Habitator
 
 A new Flutter project.
 
